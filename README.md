@@ -26,5 +26,5 @@
 
 ## Πως να αντιγράψεις το look μου
 - Για τα printable χρησιμοποιώ το Theme [obsidian-typewriter](https://github.com/crashmoney/obsidian-typewriter) σε Light Mode.
-    _ Μαζί με ένα css snippet που έγραψα εγώ [custom_print_format.css](/custom_print_format.css).
+    -  Μαζί με ένα css snippet που έγραψα εγώ [custom_print_format.css](/custom_print_format.css).
 - Για το web version χρησιμοποιώ το Theme [Spectrum](https://github.com/Braweria/Spectrum).
