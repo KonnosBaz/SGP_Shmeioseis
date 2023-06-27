@@ -1,0 +1,21 @@
+img {
+    filter:invert(100%);
+    border-radius: 2%;
+    border-style: dashed;
+    border-color: rgb(180, 98, 39);
+    border-width: 3px;
+}
+
+.MJX-TEX,
+.MJX-TEX * {
+    font-family: MJXZERO, MJXTEX
+    
+}
+
+.markdown-source-view {
+    font-family: var(--font-editor-theme);
+}
+
+.markdown-preview-view {
+    font-family: var(--font-text);
+}

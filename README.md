@@ -23,3 +23,8 @@
 δεν έδωσα τόση προσοχή. Αν τις χρησιμοποιήσεις για να διαβάσεις, έχεις την επιλογή να τις εισάγεις στο obsidian 
 (ή οποιοδήποτε άλλο markdown editor) και να διορθώσεις ότι θες. Αν το κάνεις στείλε ένα merge request και ίσως οι
 επόμενες γεννιές να έχουν ένα πολύ καλό μέρος για να πάρουν σημειώσεις για το μάθημα.
+
+## Πως να αντιγράψεις το look μου
+- Για τα printable χρησιμοποιώ το Theme [obsidian-typewriter](https://github.com/crashmoney/obsidian-typewriter) σε Light Mode.
+    _ Μαζί με ένα css snippet που έγραψα εγώ [custom_print_format.css](/custom_print_format.css).
+- Για το web version χρησιμοποιώ το Theme [Spectrum](https://github.com/Braweria/Spectrum).
